@@ -1,3 +1,4 @@
 # Final-Project
 Final Project, Group 2, Niki Bell and Madeleine Panter
 Today we started our final project by adding our dataset, checking data types, looking for any null values, and creating a heat map and pair plots. Next we split the data into training and testing sets and created the pipeline. We do not have any categorical features (only the target is categorical) so we did not include a categorical pipeline. Our next step will be to look at metrics to see how our model performs. 
+Then we did that and saw what the data about our models accuracy tells us and how we need to move forward. We found that a logistic regression model will not be our best option as itcannot detect well the difference between the 3 categories of risk. Our next step will be to test another model that is more complex and can predict better, likely a RandomForestClassifier. 
