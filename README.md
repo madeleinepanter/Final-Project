@@ -1,2 +1,3 @@
 # Final-Project
 Final Project, Group 2, Niki Bell and Madeleine Panter
+Today we started our final project by adding our dataset, checking data types, looking for any null values, and creating a heat map and pair plots. Next we split the data into training and testing sets and created the pipeline. We do not have any categorical features (only the target is categorical) so we did not include a categorical pipeline. Our next step will be to look at metrics to see how our model performs. 
